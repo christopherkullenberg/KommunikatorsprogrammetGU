@@ -1,5 +1,5 @@
 # Kommunikatorsprogrammet GU
-Diverse enkäter, utvärderingar och statistik över [Kommunikatörsprogrammet med inriktning mot myndigheter och offentlig förvaltning] vid Göteborgs universitet.
+Diverse enkäter, utvärderingar och statistik över [Kommunikatörsprogrammet med inriktning mot myndigheter och offentlig förvaltning](https://utbildning.gu.se/program/program_detalj/?programid=H2KTR) vid Göteborgs universitet.
 
 ## Innehåll
 
