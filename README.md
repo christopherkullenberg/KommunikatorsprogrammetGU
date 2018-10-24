@@ -3,4 +3,4 @@ Diverse enkäter, utvärderingar och statistik över [Kommunikatörsprogrammet m
 
 ## Innehåll
 
-* ``recruitment_survey_H18/`` - Enkätresultat och data för enkät till nyantagna studenter hösten 2018. Innehåller bland annat frågor om hur de hittade programmet, vilken tidigare utbildning de hade och varför de sökte. 
+* ``recruitment_survey/H18/`` - Enkätresultat och data för enkät till nyantagna studenter hösten 2018. Innehåller bland annat frågor om hur de hittade programmet, vilken tidigare utbildning de hade och varför de sökte. 
